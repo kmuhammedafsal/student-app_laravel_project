@@ -25,7 +25,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/faculty">faculty</a>
         </li>
-        
+       
       </ul>
     </div>
   </div>
@@ -34,17 +34,25 @@
         <div class="row">
             <div class="col"></div>
             <div class="col">
-            <table class="table">
+            <table class="table table-borderless">
                 <tr>
-                    <td>name</td>
+                    <td>faculty name</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>rollno</td>
+                    <td>deptname</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>admission no</td>
+                    <td>address</td>
+                    <td><input type="text" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td>phone number</td>
+                    <td><input type="text" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td>educational qualification</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>

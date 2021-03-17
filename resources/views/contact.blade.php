@@ -40,17 +40,14 @@
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>rollno</td>
+                    <td>message</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>admission no</td>
+                    <td>phone no</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
-                <tr>
-                    <td>college</td>
-                    <td><input type="text" class="form-control"></td>
-                </tr>
+               
                 <tr>
                     <td></td>
                     <td><button class="btn btn-success">submit</button></td>
